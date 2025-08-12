@@ -16,3 +16,4 @@
 * Javiera Vera
 * Constanza Díaz
 * alinette galdames
+* Alondra González
