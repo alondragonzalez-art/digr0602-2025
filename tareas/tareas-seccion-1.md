@@ -23,7 +23,7 @@
 * GALDAMES ARAYA ALINETTE DAMAR https://github.com/alinettegaldames/LAB-TAREAS-ll/tree/main/Tarea
 * GARRIDO AGUILERA SOFÍA CATALINA https://github.com/sofig137/Lab-del-profe-Guille-UWU/blob/main/Tarea%202
 * GODOY TOBAR ANTONIA
-* GONZÁLEZ VEGA ALONDRA SOL
+* GONZÁLEZ VEGA ALONDRA SOL: (https://github.com/alondragonzalez-art/tarea-2#)
 * HERNÁNDEZ SILVA ANTONNELA MELISSA https://github.com/antonnelahernandez/LaboratorioTec_II/tree/antonnelahernandez-patch-1/Tarea2
 * HUENULLÁN GONZALEZ FRANSISCA ISIDORA
 * PADILLA CARRILLO ISIS CAROLINA https://github.com/IsisPadilla/Curso-Laboratorio/tree/main/Tarea_2
